@@ -1,0 +1,28 @@
+name: Human Operating System
+favicon: null
+layout_spectrum: 0.49545140215195715
+typography_spectrum: 0.751566261285916
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6981346800457686
+  lightness: 0.31247349991463125
+  saturation: 0.016832296270877123
+  rhythmicContrast: 0.538879657164216
+purpose: []
